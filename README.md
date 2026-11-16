@@ -1,8 +1,8 @@
 # SmartSquat: pose-based squat form-error detection on a Jetson Orin Nano
 
-![SmartSquat welcome screen on the touchscreen app](images/00_hero_welcome_screen.jpg)
+![The SmartSquat unit seen from above, with its printed pods and stand frame](images/station_top_view.jpg)
 
-*The welcome screen of the touchscreen app. The body is a reference model drawn by the app, not a measurement of a person.*
+*The unit on its printed stand frame, seen from above (13 November 2026): the Jetson case with the printed pods and the push button fitted. The screen is off in this photo.*
 
 **One line:** a standalone unit that watches a lifter with one webcam, finds the body with MediaPipe Pose, turns each repetition into 102 features and classifies it with a support vector machine, then shows the result on a touchscreen, all offline on a Jetson Orin Nano.
 
@@ -41,13 +41,16 @@ Logitech C920 webcam (1280 x 720)
 
 ## What it looks like
 
-![The first assembled station on its touchscreen](images/01_built_station_touchscreen.jpg)
+<p>
+  <img src="images/station_front_three_quarter.jpg" alt="Front three-quarter view of the unit on its printed stand" width="320">
+  <img src="images/station_rear_with_pods.jpg" alt="Rear view showing the Jetson case and printed pods" width="320">
+</p>
 
-*The first assembled station, 2 November 2026: a Waveshare 10.1-inch touchscreen in a 3D-printed enclosure, with the Jetson running behind it. The screen shows the Ubuntu desktop here, not the app.*
+*Left: the 10.1-inch touchscreen unit on its printed stand frame. Right: the rear, with the Jetson case and the printed pods. Printed parts, 13 November 2026.*
 
-![CAD render of the station v8 design](images/02_station_cad_render.jpg)
+![SmartSquat welcome screen on the touchscreen app](images/00_hero_welcome_screen.jpg)
 
-*CAD model of the v8 station design, rendered in Blender. **Not printed or built yet.** The screen content in the render is the app's synthetic demo feed, not a real detection.*
+*The welcome screen of the touchscreen app. The body is a reference model drawn by the app, not a measurement of a person.*
 
 ![Gym setup: tripod and unit](images/03_gym_setup_tripod_and_unit.jpg)
 

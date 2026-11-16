@@ -48,6 +48,13 @@ Logitech C920 webcam (1280 x 720)
 
 *Left: the 10.1-inch touchscreen unit on its printed stand frame. Right: the rear, with the Jetson case and the printed pods. Printed parts, 13 November 2026.*
 
+<p>
+  <img src="images/station_left_side.jpg" alt="Left side of the unit with the window in the printed pod" width="320">
+  <img src="images/station_right_side.jpg" alt="Right side of the unit with the push button" width="320">
+</p>
+
+*Left: the left side, with the window in the printed pod. Right: the right side, with the push button.*
+
 ![SmartSquat welcome screen on the touchscreen app](images/00_hero_welcome_screen.jpg)
 
 *The welcome screen of the touchscreen app. The body is a reference model drawn by the app, not a measurement of a person.*
@@ -59,6 +66,10 @@ Logitech C920 webcam (1280 x 720)
 ![Pose overlay on the unit's screen during a knee-angle check](images/04_goniometer_pose_overlay.jpg)
 
 *The unit's own screen during a knee-angle check against a handheld goniometer (a team member; a bystander and the face are blurred). The skeleton is MediaPipe Pose drawn over the camera frame. The screen reads "Nothing here is a thesis result".*
+
+![The Camera setting screen on the unit in the gym](images/gym_camera_setting_screen.jpg)
+
+*The unit in the gym on 8 November 2026, on its printed stand, showing the Camera setting screen. It compares two capture settings: 1280 x 720 at 26.5 frames per second delivered by the camera, and 1024 x 576 at 29.7. The screen reads "Nothing here is a thesis result". The glare is the room reflected in the glass.*
 
 ![Live rep counting screen, demo feed](images/05_live_rep_counting_demo.jpg)
 
